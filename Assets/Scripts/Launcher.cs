@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Launcher : MonoBehaviour 
+public class LaodScene : MonoBehaviour 
 {
 
 	public string StartingScene = "";
