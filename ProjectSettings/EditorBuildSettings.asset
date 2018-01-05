@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StudioLogo.unity
     guid: 9c821eee64b9cca41aadf7ea2929ddb5
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 9e1f3a0a0c055ba4ea5935928cd79286
