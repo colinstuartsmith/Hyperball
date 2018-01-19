@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 964da04c5bc9bda439670b5071c91ef1
+timeCreated: 1515525030
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Joe Max
+  fontNames:
+  - Joe Max
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

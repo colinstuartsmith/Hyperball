@@ -1,13 +1,13 @@
 sceneSetups:
 - path: Assets/Scenes/Initialization.unity
   isLoaded: 1
-  isActive: 1
-- path: Assets/Scenes/StudioLogo.unity
-  isLoaded: 0
   isActive: 0
 - path: Assets/Scenes/Title.unity
   isLoaded: 1
   isActive: 0
+- path: Assets/Scenes/StudioLogo.unity
+  isLoaded: 1
+  isActive: 1
 - path: Assets/Scenes/Round.unity
   isLoaded: 1
   isActive: 0
